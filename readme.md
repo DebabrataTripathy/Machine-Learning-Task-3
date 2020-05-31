@@ -17,6 +17,7 @@ Libraries used:-
 -Then I performed  backward elimination which extracted the features which affect 'final_grade' the most.
 -then plotted boxplots showing how the extracted  features affected 'final_grade'
 -Then i built a random forest regressor by using the extracted  featues and calculated their various scores 
+
 -Some Important insights:-
 
 ![Test Image 1](https://github.com/DebabrataTripathy/Machine-Learning-Task-3/blob/master/Plots/Plot1.png)

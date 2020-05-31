@@ -18,11 +18,11 @@ Libraries used:-
 -then plotted boxplots showing how the extracted  features affected 'final_grade'
 -Then i built a random forest regressor by using the extracted  featues and calculated their various scores 
 -Some Important insights:-
-![Test Image 1](Machine-Learning-Task-3/Plots/Plot1.png)
-![Test Image 2](Machine-Learning-Task-3/Plots/Plot2.png)
-![Test Image 3](Machine-Learning-Task-3/Plots/Plot3.png)
-![Test Image 4](Machine-Learning-Task-3/Plots/Plot4.png)
-![Test Image 5](Machine-Learning-Task-3/Plots/Plot5.png)
+![Test Image 1](https://github.com/DebabrataTripathy/Machine-Learning-Task-3/blob/master/Plots/Plot1.png)
+![Test Image 2](https://github.com/DebabrataTripathy/Machine-Learning-Task-3/blob/master/Plots/Plot2.png)
+![Test Image 3](https://github.com/DebabrataTripathy/Machine-Learning-Task-3/blob/master/Plots/Plot3.png)
+![Test Image 4](https://github.com/DebabrataTripathy/Machine-Learning-Task-3/blob/master/Plots/Plot4.png)
+![Test Image 5](https://github.com/DebabrataTripathy/Machine-Learning-Task-3/blob/master/Plots/Plot5.png)
 
  
  BY:-
